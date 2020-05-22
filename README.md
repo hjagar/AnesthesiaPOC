@@ -1,2 +1,0 @@
-# AnesthesiaPOC
-Created with CodeSandbox
